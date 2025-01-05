@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me through telergam @praveen_x777
+
 
 <!---
 PraveenKumar7675/PraveenKumar7675 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
