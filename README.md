@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PraveenKumar7675
+- 👋 Hi, I’m @PraveenKumar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
